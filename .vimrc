@@ -21,4 +21,4 @@ let NERDTreeWinSize=35
 " map <F7> to toggle NERDTree window
 nmap <silent> <F7> :NERDTreeToggle<CR>
 
-map <F6> <C-W>p
+map <F6> <C-w><C-w>
